@@ -1,0 +1,9 @@
+# markdown files (except README.md)
+*.md
+!README.md
+
+# pdf files
+*.pdf
+
+# assets (like images)
+assets*/
