@@ -7,3 +7,6 @@
 
 # assets (like images)
 assets*/
+
+# document archives not for upload
+archives/
